@@ -1,0 +1,16 @@
+basically a interface has a methods that each of them return interface
+
+factory can make a shoe
+
+factory is changeable and shoe is changeable
+
+factory "nike" can make "shoe"
+factory "adidas" can make "shoe"
+
+
+makeSportsFactory should return either nike or adidas
+each factory can MakeShirt & MakeShoe,
+
+
+
+
